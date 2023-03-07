@@ -1,4 +1,4 @@
-Hey there 🖖
+## Hey there 🖖
 
 ⚡My name is Almaz G. I am Frontend Engineer using React stack technology    
 ⚡I love learning something new and growing every time
