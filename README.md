@@ -1,6 +1,7 @@
 ## Hey there 🖖
 
-⚡My name is Almaz G. I am Frontend Engineer using React stack technology    
+⚡My name is Almaz G. I am Frontend Engineer using React stack technology
+⚡I am keen to WEB-3 technologies and have an experience in this area
 ⚡I love learning something new and growing every time  
 ⚡Work with React.js (Redux), Next.js, Express.js, Typescript, Python, Django, Less/SCSS, Webpack  
 
